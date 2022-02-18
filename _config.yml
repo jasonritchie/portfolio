@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: /test.html
+        link: test.html
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
